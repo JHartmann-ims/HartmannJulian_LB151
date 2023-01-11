@@ -39,6 +39,11 @@ In diesem Projekt werde ich das Framework "ReactJS" benutzen.
 
 ✍️ Formulieren Sie klare Anforderungen in der Form von User Stories (*„als … möchte ich … damit …“*) und zu jeder Anforderung mindestens einen dazugehörigen Testfall (in Kapitel 4.2). 
 
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |                 |      | Als ein  |
+| ...  |                 |      |                                    |
+
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
