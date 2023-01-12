@@ -59,20 +59,20 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Muss         |  Funktional    | Als Administrator möchte ich mich durch Benutzername und Passwort authentifizieren können, um Zugang zur Verwaltung der Phrasen und Rätselwörter zu erhalten  |
 | 2    |    Muss         |  Funktional    | Als Administrator möchte ich Phrasen und Rätselwörter hinzufügen, bearbeiten und löschen können  |
-| 3    |    Muss         |  Funktional    |   |
-| 4    |    Muss         |  Funktional    |   |
-| 5    |    Muss         |  Funktional    |   |
-| 6    |    Muss         |  Funktional    |   |
-| 7    |    Muss         |  Funktional    |   |
-| 8    |    Muss         |  Funktional    |   |
-| 9    |    Muss         |  Funktional    |   |
-| 10    |    Muss         |  Funktional    |   |
-| 11    |    Muss         |  Qualität    |   |
-| 12    |    Muss         |  Qualität    |   |
-| 13    |    Kann         |  Rand    |   |
-| 14    |    Kann         |  Rand    |   |
-| 15    |    Muss         |  Rand    |   |
-| 16    |    Muss         |  Rand    |   |
+| 3    |    Muss         |  Funktional    | Als Administrator möchte ich Kategorien erstellen und jedes Wort oder jede Frage einer Kategorie zuordnen können  |
+| 4    |    Muss         |  Funktional    |  Als Administrator möchte ich einzelne Einträge der Highscore-Liste löschen können |
+| 5    |    Muss         |  Funktional    | Als Benutzer möchte ich einen Namen eingeben können, der auf der Highscore-Liste erscheint  |
+| 6    |    Muss         |  Funktional    | Als Benutzer möchte ich meinen Kontostand und meine Lebenspunkte jederzeit sehen können  |
+| 7    |    Muss         |  Funktional    |  Als Benutzer möchte ich erfahren, ob meine Antwort richtig oder falsch war |
+| 8    |    Muss         |  Funktional    |  Als Benutzer möchte ich in der Highscore-Liste Rang, Name, Zeitpunkt des Spiels, Geldbetrag und Anzahl der Spielrunden sehen können |
+| 9    |    Muss         |  Funktional    | Als Benutzer möchte ich kein Rätselwort oder keine Phrase mehr als einmal gestellt bekommen  |
+| 10    |    Muss         |  Funktional    |  Als Benutzer möchte ich jederzeit entscheiden können, ob ich spielen oder meinen Gewinn in die Highscore-Liste übernehmen möchte |
+| 11    |    Muss         |  Qualität    | Als Benutzer möchte ich ein Spiel mit einer spielbaren Anzahl von Wörtern und Fragen spielen können  |
+| 12    |    Muss         |  Qualität    |  Als Benutzer möchte ich, dass die Anzahl der Spielrunden gezählt wird |
+| 13    |    Kann         |  Rand    |  Als Benutzer möchte ich, dass einfache Formulareingaben, wie leere Textfelder, auf Client- und Serverseite überprüft werden |
+| 14    |    Kann         |  Rand    |  Als Entwickler möchte ich die Wahl der Datenbank haben und eine Datenbankanbindung verwenden, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist |
+| 15    |    Muss         |  Rand    |  Als Entwickler möchte ich Transaktionsmanagement und Sicherheitsaspekte einsetzen |
+| 16    |    Muss         |  Rand    |  Als Entwickler möchte ich die Applikation mit einer session-basierten, professionellen 4-Tier-Architektur implementieren, mit einem Webserver-Layer, einem Templating-System, HTML5 und CSS, und einem Business Logic Layer, der die einzige Verbindung zur Datenbank hat  |
 
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
