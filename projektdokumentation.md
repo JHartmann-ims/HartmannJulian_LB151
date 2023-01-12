@@ -78,8 +78,12 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| A    |     Kann            |   Funktional   |  Als Administrator möchte ich die Möglichkeit haben, mehrere Administratoren hinzuzufügen und zu verwalten   |
+| B    |     Kann            |   Funktional   |   Als Benutzer möchte ich die Möglichkeit haben, mein Passwort zu ändern  |
+| C    |     Kann            |   Qualität   |   Als Benutzer möchte ich die Möglichkeit haben, meinen Fortschritt im Spiel zu speichern und später fortzusetzen  |
+| D    |     Kann            |   Funktional   |  Als Benutzer möchte ich die Möglichkeit haben, mein Profilbild hochzuladen   |
+| E    |     Kann            |   Funktional   |  Als Benutzer möchte ich die Möglichkeit haben, mit Freunden zu spielen und unsere Highscore-Listen miteinander zu vergleichen   |
+| F    |     Kann            |   Qualität   |  Als Benutzer möchte ich die Möglichkeit haben, zusätzliche In-App-Käufe zu tätigen, um zusätzliche Rätselwörter, Phrasen und Kategorien freizuschalten   |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
