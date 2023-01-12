@@ -4,7 +4,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 12.01.2023      | 0.0.1   | Die Dokumentation gestartet und Überlegungen zum Projekt gemacht. |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
@@ -15,6 +15,8 @@
 # 0 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
+Eine abgewandelte Version des Quiz vom Fernsehshow "Glücksrad" als Web-Applikation.
 
 # 1 Analyse
 
@@ -34,6 +36,20 @@ In diesem Projekt werde ich das Framework "ReactJS" benutzen.
 # 3 Datenbank
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+
+Firebase bietet eine webbasierte Konsole, über die Entwickler auf die Datenbank zugreifen und sie verwalten können. In der Konsole können Sie Datensätze erstellen, bearbeiten und löschen, Abfragen erstellen und Indizes erstellen.
+
+Das Interface ist in mehrere Bereiche unterteilt, wie z.B. Datenbank, Benutzer und Rollenverwaltung, Echtzeit-Ereignisse und Protokolle.
+
+In der Datenbank-Registerkarte können Sie Ihre Datenstruktur definieren und Daten hinzufügen, bearbeiten oder löschen.
+
+In der Registerkarte "Authentifizierung" können Sie Benutzerkonten erstellen und verwalten, Passwortrichtlinien festlegen und Authentifizierungsmethoden konfigurieren.
+
+In der Registerkarte "Rules" können Sie Zugriffsregeln für Ihre Datenbank definieren, um sicherzustellen, dass nur autorisierte Benutzer auf bestimmte Daten zugreifen können.
+
+In der Registerkarte "Echtzeit-Ereignisse" können Sie Ereignisse in Echtzeit überwachen und Abfragen erstellen, um bestimmte Daten zu extrahieren.
+
+In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase-App nachverfolgen und Fehlerdiagnose durchführen.
 
 # 4.1 User Stories
 
