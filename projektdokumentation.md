@@ -32,7 +32,7 @@ Eine abgewandelte Version des Quiz vom Fernsehshow "Glücksrad" als Web-Applikat
 ✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
 
 * Tier 1 (Presentation): HTML-in-JavaScript (JSX)
-* Tier 2 (Webserver): Javascript
+* Tier 2 (Webserver): Javascript, Chakra-UI
 * Tier 3 (Application Server): Javascript
 * Tier 4 (Dataserver): Firebase
 
