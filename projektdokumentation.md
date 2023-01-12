@@ -22,10 +22,10 @@ Eine abgewandelte Version des Quiz vom Fernsehshow "Glücksrad" als Web-Applikat
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): Benutzerinterface
+* Tier 2 (Webserver): Das Senden der verschiedenen Aktionen vom Benutzer
+* Tier 3 (Application Server): Stellt eine Verbindung zum Datenbank her; sendet die eingesendete Eingaben vom Benutzern zum Datenbank
+* Tier 4 (Dataserver): Das Speichern der eingegebenen Daten und das Herabrufen von Daten.
 
 # 2 Technologie
 
