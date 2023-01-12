@@ -57,8 +57,22 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein  |
-| ...  |                 |      |                                    |
+| 1    |    Muss         |  Funktional    | Als Administrator möchte ich mich durch Benutzername und Passwort authentifizieren können, um Zugang zur Verwaltung der Phrasen und Rätselwörter zu erhalten  |
+| 2    |    Muss         |  Funktional    | Als Administrator möchte ich Phrasen und Rätselwörter hinzufügen, bearbeiten und löschen können  |
+| 3    |    Muss         |  Funktional    |   |
+| 4    |    Muss         |  Funktional    |   |
+| 5    |    Muss         |  Funktional    |   |
+| 6    |    Muss         |  Funktional    |   |
+| 7    |    Muss         |  Funktional    |   |
+| 8    |    Muss         |  Funktional    |   |
+| 9    |    Muss         |  Funktional    |   |
+| 10    |    Muss         |  Funktional    |   |
+| 11    |    Muss         |  Qualität    |   |
+| 12    |    Muss         |  Qualität    |   |
+| 13    |    Kann         |  Rand    |   |
+| 14    |    Kann         |  Rand    |   |
+| 15    |    Muss         |  Rand    |   |
+| 16    |    Muss         |  Rand    |   |
 
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
