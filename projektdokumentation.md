@@ -31,7 +31,7 @@ Eine abgewandelte Version des Quiz vom Fernsehshow "Glücksrad" als Web-Applikat
 
 ✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
 
-In diesem Projekt werde ich das Framework "ReactJS" benutzen.
+In diesem Projekt werde ich das Framework "ReactJS" und für das CSS "Chakra UI" benutzen.
 
 # 3 Datenbank
 
@@ -91,8 +91,23 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |      Erstelle einen Test-Administrator-Account        |    Benutzername: "testadmin", Passwort: "password"     |       Erfolgreiche Anmeldung als Administrator            |
+| 1.2  |     Versuche eine Anmeldung ohne gültigen Administrator-Account         |    Benutzername: "invalid", Passwort: "invalid"     |         Fehlermeldung "Ungültiger Benutzername oder Passwort"          |
+| 2.1  |     Fehlermeldung "Ungültiger Benutzername oder Passwort"         |  -       |     -               |
+| 2.2  |       Füge ein neues Rätselwort hinzu       |    Wort: "Apfel", Kategorie: "Obst"     |         Rätselwort "Apfel" wurde erfolgreich hinzugefügt          |
+| 2.3  |       Bearbeite ein vorhandenes Rätselwort       |  Wort: "Apfel", neue Kategorie: "Lebensmittel"       |       Rätselwort "Apfel" wurde erfolgreich bearbeitet            |
+| 2.4  |    Lösche ein vorhandenes Rätselwort          |    Wort: "Apfel"     |       Rätselwort "Apfel" wurde erfolgreich gelöscht            |
+| 3.1  |     Melde mich als Administrator an         |    -     |        -           |
+| 3.2  |      Erstelle eine neue Kategorie        |    Kategorie: "Tiere"     |      Kategorie "Tiere" wurde erfolgreich erstellt             |
+| 3.3  |       Zuordne ein Rätselwort einer Kategorie       |   Wort: "Hund", Kategorie: "Tiere"      |       Rätselwort "Hund" wurde erfolgreich der Kategorie "Tiere" zugeordnet            |
+| 4.1  |     Melde mich als Administrator an         |    -     |        -           |
+| 4.2  |      Lösche einen Eintrag aus der Highscore-Liste        |   Name: "Spieler1"      |         Eintrag von "Spieler1" wurde erfolgreich gelöscht          |
+| 5.1  |      Starte ein neues Spiel        |    -     |        -           |
+| 5.2  |      Gib einen Namen ein        |    Name: "Spieler1"     |        	Name "Spieler1" wurde erfolgreich eingegeben           |
+| 6.1  |      Starte ein neues Spiel        |   -      |           -        |
+| 6.2  |     Überprüfe den Kontostand         |    -     |        Kontostand wird korrekt angezeigt           |
+| 6.3  |              |         |                   |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
