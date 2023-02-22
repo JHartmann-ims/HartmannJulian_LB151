@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+}
+
+.navlist {
+    @apply px-5 hover:bg-primary rounded-full select-none
+}
