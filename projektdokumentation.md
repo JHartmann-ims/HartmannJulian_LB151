@@ -6,7 +6,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 | 12.01.2023      | 0.0.1   | Die Dokumentation gestartet und Überlegungen zum Projekt gemacht. |
 |  26.01.2023     | 0.0.2   | Tracer Bullet-Prototyp durchgeführt und an Prototyp für GUI gearbeitet    |
-|       | 0.0.3   |                                                              |
+|  22.02.2023     | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
