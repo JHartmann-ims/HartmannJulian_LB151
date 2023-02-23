@@ -8,7 +8,7 @@
 |  26.01.2023     | 0.0.2   | Tracer Bullet-Prototyp durchgeführt und an Prototyp für GUI gearbeitet    |
 |  04.02.2023     | 0.0.3   | Prototyp für Gui fertiggestellt                                                             |
 |    21.02.2023   | 0.0.4   | Projekt gestartet, Installation von allen Technologien                                                             |
-|   22.02.2023    | 0.0.5   |    Für ein Design entscheidet, Navbar erstellt                                                          |
+|   22.02.2023    | 0.0.5   |    Für ein Design entschieden, Navbar erstellt                                                          |
 |   23.02.2023    | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
