@@ -120,7 +120,7 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
-![admin mockup](https://github.com/JHartmann-ims/HartmannJulian_LB151/blob/main/Bilder/Admin_Mockup.png?raw=true)
+![admin mockup](Bilder/Admin_Mockup.png)
 
 # 6 Implementation
 
