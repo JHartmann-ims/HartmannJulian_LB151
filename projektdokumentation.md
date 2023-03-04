@@ -6,10 +6,10 @@
 | ----- | ------- | ------------------------------------------------------------ |
 | 12.01.2023      | 0.0.1   | Die Dokumentation gestartet und Überlegungen zum Projekt gemacht. |
 |  26.01.2023     | 0.0.2   | Tracer Bullet-Prototyp durchgeführt und an Prototyp für GUI gearbeitet    |
-|  22.02.2023     | 0.0.3   |                                                              |
-|       | 0.0.4   |                                                              |
-|       | 0.0.5   |                                                              |
-|       | 0.0.6   |                                                              |
+|  04.02.2023     | 0.0.3   | Prototyp für Gui fertiggestellt                                                             |
+|    21.02.2023   | 0.0.4   | Projekt gestartet, Installation von allen Technologien                                                             |
+|   22.02.2023    | 0.0.5   |    Für ein Design entschieden, Navbar erstellt                                                          |
+|   23.02.2023    | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
 # 0 Ihr Projekt
@@ -119,6 +119,10 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+
+<img width="346" alt="Admin_mockUp" src="https://user-images.githubusercontent.com/69578060/220881883-8f81c937-bfbe-4cc2-8b1b-e67c9f282380.png">
+
+<img width="344" alt="Quiz_MockUp" src="https://user-images.githubusercontent.com/69578060/220881897-84debd52-fe8e-4370-b764-bd4176975a9a.png">
 
 # 6 Implementation
 
