@@ -218,5 +218,5 @@ https://youtu.be/hVRVNaYWR7Y ✍️ Fügen Sie hier den Link zu dem Video ein, w
 # 10 Allgemeines
 
 - [ Erledigt ] Ich habe die Rechtschreibung überprüft
-- [Erledigt ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [ Erledigt] Ich habe alle mit ✍️ markierten Teile ersetzt
+- [ Erledigt ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
+- [ Erledigt ] Ich habe alle mit ✍️ markierten Teile ersetzt
