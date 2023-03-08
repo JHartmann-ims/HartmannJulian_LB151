@@ -112,7 +112,16 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | 5.2  |      Gib einen Namen ein        |    Name: "Spieler1"     |        	Name "Spieler1" wurde erfolgreich eingegeben           |
 | 6.1  |      Starte ein neues Spiel        |   -      |           -        |
 | 6.2  |     Überprüfe den Kontostand         |    -     |        Kontostand wird korrekt angezeigt           |
-| 6.3  |              |         |                   |
+| 7.1  |   Spiel gestartet und Wort schon ausgewählt         |   Buchstaben eingeben und absenden      |     Es wird mitgeteilt, ob man richtig oder falsch war      |
+| 8.1  |   Highscore-Liste anzeigen         |   Klicken auf den Highscore-Button     |     Das System zeigt eine Liste der Spieler an, sortiert nach Rang. Jeder Eintrag enthält den Namen des Spielers, den Zeitpunkt des Spiels, den Geldbetrag und die Anzahl der Spielrunden.           |
+| 9.1  |   Spiel gestartet und Kategorie ausgewählt       |   Starten eines neuen Spiels      |      Das System wählt ein zufälliges Rätselwort aus und stellt sicher, dass es nicht bereits in früheren Spielen verwendet wurde.          |
+| 10.1  |  Nach Abschluss des Spiels         |   -      |       Das System gibt dem Spieler die Möglichkeit, seinen Gewinn in die Highscore-Liste zu übernehmen oder das Spiel zu beenden. Wenn der Spieler sich für die Highscore-Liste entscheidet, wird er aufgefordert, seinen Namen einzugeben.         |
+| 11.1  |   Spiel mit spielbarer Anzahl von Wörtern und Fragen        |   Starten eines neuen Spiels     |    Das System stellt sicher, dass die Anzahl der Wörter und Fragen im Spiel angemessen ist und ein angenehmes Spielerlebnis bietet.            |
+| 12.1  |   Zählen der Spielrunden      |   Nach Abschluss des Spiels      |     Das System zählt die Anzahl der Spielrunden und zeigt sie dem Spieler an.           |
+| 13.1  |  Spiel gestartet        |  Ausfüllen eines Formulars und Absenden     |   Das System überprüft, ob alle erforderlichen Felder ausgefüllt wurden und ob die eingegebenen Daten gültig sind. Es gibt eine Fehlermeldung, wenn das Formular unvollständig ist oder die eingegebenen Daten ungültig sind.             |
+| 14.1  |   	Wahl der Datenbank         |  Systemstart      |     Das System verwendet eine Datenbankanbindung, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist.           |
+| 15.1  |   Einsatz von Transaktionsmanagement und Sicherheitsaspekten         |  Während des Spiels     |     Das System verwendet Transaktionsmanagement und Sicherheitsaspekte, um sicherzustellen, dass Spielerdaten sicher und zuverlässig gespeichert werden.           |
+| 16.1  |  	Implementierung einer session-basierten, professionellen 4-Tier-Architektur        |   Systemstart     |    Das System verwendet eine session-basierte, professionelle 4-Tier-Architektur mit einem Webserver-Layer, einem Templating-System, HTML5 und CSS, und einem Business Logic Layer, der die einzige Verbindung zur Datenbank hat.            |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
