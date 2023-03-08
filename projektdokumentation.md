@@ -131,14 +131,41 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| ...        |       |              |
+|  6    |  08.03.2023     |     Man sieht seinen Kontostand         |
+|   7   |   07.03.2023    |   Richtige Buchstaben werden im Wort angezeigt          |
+|  9    |   08.03.2023    |    Es gibt nur ein Wort zur Auswahl          |
+| 11     |   08.03.2023    |      Es gibt nur ein Wort zur Auswahl          |
+| 13     |   08.03.2023    |    Sie werden Clientseitig überprüft         |
+| 16      |  08.03.2023     |    Keine Verbindung zur Datenbank          |
+
+
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| ...  |           |                                           |
+| 1    | nein |                                           |
+| 2  |     nein      |                                           |
+| 3  |   nein        |                                           |
+| 4  |    nein       |                                           |
+| 5  |      nein       |                                           |
+| 6  |      Ja     |                                           |
+| 7  |        Ja   |                                           |
+| 8  |      nein       |                                           |
+| 9  |        Ja   |                                           |
+| 10  |    nein         |                                           |
+| 11  |      Ja     |                                           |
+| 12  |    nein         |                                           |
+| 13  |     Ja      |                                           |
+| 14  |     nein        |                                           |
+| 15  |     nein        |                                           |
+| 16  |      Ja      |                                           |
+| A |      nein       |                                           |
+| B  |       nein      |                                           |
+| C  |      nein       |                                           |
+| D  |      nein       |                                           |
+| E  |       nein      |                                           |
+| F  |     nein        |                                           |
 
 # 8 Testprotokoll
 
