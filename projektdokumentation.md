@@ -77,7 +77,7 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | 12    |    Muss         |  Qualität    |  Als Benutzer möchte ich, dass die Anzahl der Spielrunden gezählt wird |
 | 13    |    Kann         |  Rand    |  Als Benutzer möchte ich, dass einfache Formulareingaben, wie leere Textfelder, auf Client- und Serverseite überprüft werden |
 | 14    |    Kann         |  Rand    |  Als Entwickler möchte ich die Wahl der Datenbank haben und eine Datenbankanbindung verwenden, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist |
-| 15    |    Muss         |  Rand    |  Als Entwickler möchte ich Transaktionsmanagement und Sicherheitsaspekte einsetzen |
+| 15    |    Muss         |  Funktional    |  Als Benutzer möchte ich einen Vokal kaufen, falls ich nicht mehr weiter weiss. |
 | 16    |    Muss         |  Rand    |  Als Entwickler möchte ich die Applikation mit einer session-basierten, professionellen 4-Tier-Architektur implementieren, mit einem Webserver-Layer, einem Templating-System, HTML5 und CSS, und einem Business Logic Layer, der die einzige Verbindung zur Datenbank hat  |
 
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
@@ -120,7 +120,7 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | 12.1  |   Zählen der Spielrunden      |   Nach Abschluss des Spiels      |     Das System zählt die Anzahl der Spielrunden und zeigt sie dem Spieler an.           |
 | 13.1  |  Spiel gestartet        |  Ausfüllen eines Formulars und Absenden     |   Das System überprüft, ob alle erforderlichen Felder ausgefüllt wurden und ob die eingegebenen Daten gültig sind. Es gibt eine Fehlermeldung, wenn das Formular unvollständig ist oder die eingegebenen Daten ungültig sind.             |
 | 14.1  |   	Wahl der Datenbank         |  Systemstart      |     Das System verwendet eine Datenbankanbindung, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist.           |
-| 15.1  |   Einsatz von Transaktionsmanagement und Sicherheitsaspekten         |  Während des Spiels     |     Das System verwendet Transaktionsmanagement und Sicherheitsaspekte, um sicherzustellen, dass Spielerdaten sicher und zuverlässig gespeichert werden.           |
+| 15.1  |   Spiel gestartet und Wort schon ausgewählt         |  Vokal kaufen drücken     |     Vokal wird hinzugefügt        |
 | 16.1  |  	Implementierung einer session-basierten, professionellen 4-Tier-Architektur        |   Systemstart     |    Das System verwendet eine session-basierte, professionelle 4-Tier-Architektur mit einem Webserver-Layer, einem Templating-System, HTML5 und CSS, und einem Business Logic Layer, der die einzige Verbindung zur Datenbank hat.            |
 
 
@@ -145,7 +145,8 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 |  9    |   08.03.2023    |    Es gibt nur ein Wort zur Auswahl          |
 | 11     |   08.03.2023    |      Es gibt nur ein Wort zur Auswahl          |
 | 13     |   08.03.2023    |    Sie werden Clientseitig überprüft         |
-| 16      |  08.03.2023     |    Keine Verbindung zur Datenbank          |
+| 15     |   08.03.2023    |    Der Vokal wird nicht richtig hinzugefügt     |
+| 16      |  08.03.2023     |    Verbindung zur Datenbank wird nicht ausgenützt         |
 
 
 
@@ -167,8 +168,8 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | 12  |    nein         |                    -                       |
 | 13  |     Ja      |                https://github.com/JHartmann-ims/HartmannJulian_LB151/blob/b42632cdba4bda591c1b362b78914691eb57a941/Gluecksrad_M151/src/components/Content.jsx#L146-L158                           |
 | 14  |     nein        |              -                             |
-| 15  |     nein        |               -                            |
-| 16  |      Ja      |      Nur die Verbindung zur Datenbank fehlt.                                     |
+| 15  |     nein        |               Der gekaufte Vokal wird nicht richtig hinzugefügt.                           |
+| 16  |      Ja      |      Die Verbindung zur Datenbank besteht, wird aber nicht benutzt.                                     |
 | A |      nein       |                -                           |
 | B  |       nein      |              -                             |
 | C  |      nein       |              -                             |
@@ -182,8 +183,31 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  08.03.2023     |   NOK       |   Julian Hartmann     |
+| 1.2  | 08.03.2023       |  NOK          |   Julian Hartmann     |
+| 2.1   |  08.03.2023      |  NOK          |   Julian Hartmann     |
+|  2.2 |   08.03.2023     |  NOK          |   Julian Hartmann     |
+| 2.3  |  08.03.2023      |   NOK         |  Julian Hartmann      |
+| 2.4  |  08.03.2023      |   NOK         |   Julian Hartmann     |
+| 3.1  |  08.03.2023      |    NOK        |   Julian Hartmann     |
+|  3.2 |  08.03.2023      |   NOK         |   Julian Hartmann     |
+| 3.3  |  08.03.2023      |   NOK         |   Julian Hartmann     |
+| 4.1  |  08.03.2023      |   NOK         |   Julian Hartmann     |
+| 4.2  |  08.03.2023      |   NOK         |  Julian Hartmann      |
+| 5.1  |  08.03.2023      |  NOK          |  Julian Hartmann      |
+| 5.2  |  08.03.2023      |  NOK          |  Julian Hartmann      |
+| 6.1  |   08.03.2023     |   OK       |  Julian Hartmann      |
+| 6.2  |  08.03.2023      |   OK       |  Julian Hartmann      |
+| 7.1  |  08.03.2023      |   OK       |   Julian Hartmann     |
+| 8.1  |  08.03.2023      |  NOK        |  Julian Hartmann      |
+| 9.1  |  08.03.2023      |   NOK         |  Julian Hartmann      |
+| 10.1  |  08.03.2023      |   NOK         |  Julian Hartmann      |
+| 11.1  |  08.03.2023      |   NOK         |  Julian Hartmann      |
+| 12.1  |  08.03.2023      |   NOK         |   Julian Hartmann     |
+| 13.1  |  08.03.2023      |  NOK          |   Julian Hartmann     |
+| 14.1  | 08.03.2023       |   NOK         |  Julian Hartmann      |
+| 15.1  |  08.03.2023      |   OK       |  Julian Hartmann      |
+| 16.1  |  08.03.2023      | NOK       |  Julian Hartmann      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
