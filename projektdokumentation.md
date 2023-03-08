@@ -179,7 +179,7 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+https://youtu.be/hVRVNaYWR7Y ✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
@@ -209,7 +209,7 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 | 15.1  |  08.03.2023      |   OK       |  Julian Hartmann      |
 | 16.1  |  08.03.2023      | NOK       |  Julian Hartmann      |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+✍️ Am Anfang bin ich mit dem Projekt nicht so schnell vorangekommen, weil ich mehr an die Dokumentation gearbeitet habe. Später ist auch vieles im Weg gekommen, wie andere Projekte, Prüfungen oder Praktikumswoche. Deswegen musste ich oft Zeit opfern, damit ich mich auch andere wichtigen Sachen fokussieren konnte. Aus diesem Grund konnte ich leider am Ende nicht viele Features implementieren, die ich eigentlich geplant habe. Es ist sehr schade, denn ich habe mich sehr auf dieses Projekt gefreut. Beim nächsten Mal wäre es besser, einen eigenen Plan für mich zu machen, um die Zeit besser einzuteilen.
 
 # 9 `README.md`
 
@@ -217,6 +217,6 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 # 10 Allgemeines
 
-- [ ] Ich habe die Rechtschreibung überprüft
-- [ ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
+- [ Erledigt ] Ich habe die Rechtschreibung überprüft
+- [Erledigt ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
+- [ Erledigt] Ich habe alle mit ✍️ markierten Teile ersetzt
