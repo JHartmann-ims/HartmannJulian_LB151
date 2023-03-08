@@ -9,8 +9,9 @@
 |  04.02.2023     | 0.0.3   | Prototyp für Gui fertiggestellt                                                             |
 |    21.02.2023   | 0.0.4   | Projekt gestartet, Installation von allen Technologien                                                             |
 |   22.02.2023    | 0.0.5   |    Für ein Design entschieden, Navbar erstellt                                                          |
-|   23.02.2023    | 0.0.6   |                                                              |
-|       | 1.0.0   |                                                              |
+|   23.02.2023    | 0.0.6   |    Content erstellt und layout                                                          |
+|   07.03.2023    | 1.0.0   |    Implementierung von Spiellogik                                                          |
+|   08.03.2023    | 1.0.0   |    Weiterführung Implementierung von Spiellogik und Einbindung der Datenbank                                                        |
 
 # 0 Ihr Projekt
 
