@@ -144,28 +144,28 @@ In der Registerkarte "Protokolle" können Sie die Aktivitäten in Ihrer Firebase
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | nein |                                           |
-| 2  |     nein      |                                           |
-| 3  |   nein        |                                           |
-| 4  |    nein       |                                           |
-| 5  |      nein       |                                           |
-| 6  |      Ja     |                                           |
-| 7  |        Ja   |                                           |
-| 8  |      nein       |                                           |
-| 9  |        Ja   |                                           |
-| 10  |    nein         |                                           |
-| 11  |      Ja     |                                           |
-| 12  |    nein         |                                           |
-| 13  |     Ja      |                                           |
-| 14  |     nein        |                                           |
-| 15  |     nein        |                                           |
-| 16  |      Ja      |                                           |
-| A |      nein       |                                           |
-| B  |       nein      |                                           |
-| C  |      nein       |                                           |
-| D  |      nein       |                                           |
-| E  |       nein      |                                           |
-| F  |     nein        |                                           |
+| 1    | nein |               -                            |
+| 2  |     nein      |    -                                       |
+| 3  |   nein        |       -                                    |
+| 4  |    nein       |        -                                   |
+| 5  |      nein       |        -                                   |
+| 6  |      Ja     |        https://github.com/JHartmann-ims/HartmannJulian_LB151/blob/b42632cdba4bda591c1b362b78914691eb57a941/Gluecksrad_M151/src/components/Content.jsx#L97-L100                                   |
+| 7  |        Ja   |              https://github.com/JHartmann-ims/HartmannJulian_LB151/blob/b42632cdba4bda591c1b362b78914691eb57a941/Gluecksrad_M151/src/components/Content.jsx#L74-L84                             |
+| 8  |      nein       |                -                           |
+| 9  |        Ja   |             Es kann nur einmal vorkommen, da es nur 1 Wort gibt.                              |
+| 10  |    nein         |                 -                          |
+| 11  |      Ja     |                Es gibt nur ein Wort.                           |
+| 12  |    nein         |                    -                       |
+| 13  |     Ja      |                https://github.com/JHartmann-ims/HartmannJulian_LB151/blob/b42632cdba4bda591c1b362b78914691eb57a941/Gluecksrad_M151/src/components/Content.jsx#L146-L158                           |
+| 14  |     nein        |              -                             |
+| 15  |     nein        |               -                            |
+| 16  |      Ja      |      Nur die Verbindung zur Datenbank fehlt.                                     |
+| A |      nein       |                -                           |
+| B  |       nein      |              -                             |
+| C  |      nein       |              -                             |
+| D  |      nein       |             -                              |
+| E  |       nein      |            -                               |
+| F  |     nein        |            -                               |
 
 # 8 Testprotokoll
 
